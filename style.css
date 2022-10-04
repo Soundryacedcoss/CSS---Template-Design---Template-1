@@ -30,13 +30,14 @@ ul{
     border-color:2px solid white; 
     color: white;
 } 
-li{
+/* li{
     list-style-type: none;
-    margin: 5px;
-    border-left: 20px;
+    padding: 6%;
+    /* border-left: 20px; */
     /* border-right: 2px solid white;  */
     /* border-color: blue; */
-}
+    /* border */
+ */
 /* h1{
     color: blue;
     margin: 0px 500px 0px 20px;
@@ -51,13 +52,14 @@ li{
     margin-top: 0px;
     padding-top: 0px;
 } */
-#para1{
-    margin: 0px  40px;
-    padding-bottom: 25px;
-}
-.class01{
+/* #para1{ */
+    /* margin: 0px  40px;
+    padding-bottom: 25px; */
+
+/* } */
+/* .class01{
     display: flex;
-}
+} */
 /* #para2{
     display: block;
     height: 500px;
@@ -110,8 +112,8 @@ footer{
     #para1 {width: 700px; float: left;}
     #para3 {margin-left: 0px; flex-direction: column; }
   }  */
-  @media (max-width: 600px) {
+  /* @media (max-width: 600px) {
     .class01 {
       flex-direction: column; 
       flex: 100%;
-    }
+    } */
